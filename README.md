@@ -1,6 +1,4 @@
----
 <img align="left" alt="Sammy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mwaurasammy" />
-                                                                                                            ---
 
 # 👋 Hi there! I'm Sammy
 
@@ -22,7 +20,7 @@ When I'm not coding, you'll find me:
 
 ## 🌟 Projects
 
-- **Game Store**: A game store with Javascript where you can purchase your favorite games.
-- **My game**: Currently working on an RPG game. More information soon.
+- **Game Store**: A game store application built with JavaScript where you can purchase your favorite games.
+- **My RPG Game**: Currently working on an RPG game. More information coming soon.
 
 Feel free to check out my repositories and reach out if you have any questions or just want to chat about tech, art, or manga!
