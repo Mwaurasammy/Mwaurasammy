@@ -1,6 +1,7 @@
-[![Sammy's GitHub stats](https://my-stats-4582-git-main-mwaura-sammys-projects.vercel.app)](https://github.com/Mwaurasammy/github-readme-stats)
-
 # 👋 Hi there! I'm Sammy
+
+---
+<img align="left" alt="Sammy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mwaurasammy" />
 
 I'm a front-end software engineer currently honing my skills at Moringa School. With a solid foundation in **JavaScript**, **React**, and **Python**, I thrive on building engaging and dynamic web applications.
 
