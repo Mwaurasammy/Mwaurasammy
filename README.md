@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sammy
 
-<!--
-**Mwaurasammy/Mwaurasammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end software engineer currently honing my skills at Moringa School. With a solid foundation in **JavaScript**, **React**, and **Python**, I thrive on building engaging and dynamic web applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: JavaScript, React
+- **Backend**: Python
+- **Tools**: Unity, Unreal Engine
+
+## 🎨 Interests
+
+When I'm not coding, you'll find me:
+- 🎨 **Painting and Sketching**: I love art and enjoy expressing myself through various mediums.
+- 📚 **Collecting Manga**: I am an avid manga collector with a growing collection of my favorite series.
+- 🤖 **Machine Learning**: Exploring the world of machine learning and its possibilities.
+- 🎮 **Game Development**: Experimenting with Unity and Unreal Engine to bring creative ideas to life.
+
+## 🌟 Projects
+
+- **Game Store**: A game store with Javascript where you can purchase your favorite games.
+- **My game**: Currently working on an RPG game. More information soon.
+
+Feel free to check out my repositories and reach out if you have any questions or just want to chat about tech, art, or manga!
