@@ -1,5 +1,5 @@
 <p align="left">
-  <img alt="Sammy's Github Stats" src="https://my-stats-4582-mwaura-sammys-projects.vercel.app/api?username=Mwaurasammy&show_icons=true&theme=transparent" />
+  <img alt="Sammy's Github Stats" src="https://my-stats-4582-mwaura-sammys-projects.vercel.app/api?username=Mwaurasammy&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
 # 👋 Hi there! I'm Sammy
