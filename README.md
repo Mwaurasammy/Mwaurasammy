@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwaurasammy)](https://github.com/anuraghazra/github-readme-stats)
 # 👋 Hi there! I'm Sammy
 
 I'm a front-end software engineer currently honing my skills at Moringa School. With a solid foundation in **JavaScript**, **React**, and **Python**, I thrive on building engaging and dynamic web applications.
