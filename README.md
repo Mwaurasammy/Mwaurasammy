@@ -4,7 +4,8 @@ Hi there! <picture>
 </picture>
  👋 I'm Sammy
 
-I'm a front-end software engineer currently honing my skills at Moringa School. With a solid foundation in **JavaScript**, **React**, and **Python**, I thrive on building engaging and dynamic web applications.
+I'm a software engineer from Nairobi, Kenya.
+I'm primarily interested in full-stack development and machine learning.
 
 ## 🚀 Skills
 
