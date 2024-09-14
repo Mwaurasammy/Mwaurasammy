@@ -1,4 +1,7 @@
-Hi there! https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/lottie.json
+Hi there! <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.gif" alt="🫣" width="32" height="32">
+</picture>
 # 👋 Hi there! I'm Sammy
 
 I'm a front-end software engineer currently honing my skills at Moringa School. With a solid foundation in **JavaScript**, **React**, and **Python**, I thrive on building engaging and dynamic web applications.
