@@ -3,7 +3,7 @@ Hi there! <picture>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.gif" alt="🫣" width="32" height="32">
 </picture>
 
-I'm obsessively interested in machine learning in game development.
+Obsessively interested in game development.
 
 ## 🎨 Interests
 Manga enthusiast soon to be mangaka.
