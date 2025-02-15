@@ -4,7 +4,7 @@ Hi there! <picture>
 </picture>
 
 # 💫 About Me:
-I'm sammy, a software engineer from Nairobi, Kenya.<br>I'm primarily interested in full-stack development and obsessively interested in game development.<br>Also, I'm manga enthusiast and collector soon to be mangaka.<br>
+I'm sammy, a software engineer from Nairobi, Kenya.<br>I'm primarily interested in full-stack development and obsessively interested in game development.<br>Also, I'm manga enthusiast and collector.<br>
 
 
 ## 🌐 Socials:
